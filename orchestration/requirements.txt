@@ -3,7 +3,7 @@ requests==2.31.0
 pandas==2.1.0
 transformers==4.33.1
 torch==2.0.1
-evidently>=0.4.15
+evidently==0.4.15
 scikit-learn==1.3.0
 dvc>=3.30.0
 dvc-gdrive
